@@ -13,4 +13,3 @@ counting peak detection approach outperformed neural networks confirming the
 hypothesis, that methods based on handcrafted features can be more efficient and 
 accurate.
 
-1. 
